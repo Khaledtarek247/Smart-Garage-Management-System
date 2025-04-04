@@ -26,3 +26,4 @@ This project utilizes a combination of sensors, an ATmega 32 microcontroller, an
   
   Voice Recognition Mode: Users can control the gates via voice commands through a Python application. This application communicates with the microcontroller using UART, enhancing the system's accessibility and convenience.
 "# Smart-Garage-Management-System" 
+"# Smart-Garage-Management-System" 
